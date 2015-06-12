@@ -1,0 +1,5 @@
+<Page loaded="onPageLoaded" xmlns="http://www.nativescript.org/tns.xsd">
+    <GridLayout rows="*">
+    	<Placeholder creatingView="creatingChart" row="0"/>
+    </GridLayout>
+</Page>
