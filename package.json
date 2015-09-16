@@ -1,0 +1,8 @@
+{
+  "nativescript": {
+    "id": "org.nativescript.sampleioschartwithdatasource"
+  },
+  "dependencies": {
+    "tns-core-modules": "1.3.0"
+  }
+}
